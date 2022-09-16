@@ -16,7 +16,7 @@ class Cuestionador:
         self.answer=[
             "Circulo imaginario en esfera celeste",
             "90 grados respecto al horizonte",
-            12
+            "12"
         
         ]
 
